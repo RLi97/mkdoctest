@@ -1,3 +1,1 @@
-#Introduction to the platform
-
-#TESTING UPDATE
+Main page #1
