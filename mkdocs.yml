@@ -1,1 +1,9 @@
-site_name: Robert Li
+site_name: 'Robert Li'
+site_description: 'testing site'
+site_author: 'Robert Li'
+site_url: 'https://docs.infra.nyt.net'
+
+repo_name: 'RLi97/mkdoctest'
+repo_url: 'https://github.com/RLi97/mkdoctest'
+
+theme: 'readthedocs'
